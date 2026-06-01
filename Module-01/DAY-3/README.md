@@ -14,13 +14,7 @@ b.	If false, print 'num' followed by " is Non-Zero"
 6.	End
 
 ## PROGRAM:
- ```
-/*
-Program to implement a variable and operators using Java
-Developed by: Allen Johnston Ozario W
-RegisterNumber: 212224110004 
-*/
-```
+
 
 ## Sourcecode.java:
 
