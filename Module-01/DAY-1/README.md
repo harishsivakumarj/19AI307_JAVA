@@ -17,13 +17,6 @@ To create a class named 'Student' with String variable 'name' and String variabl
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a class & objects using Java
-Developed by: W Allen Johnston Ozario
-RegisterNumber: 212224110004 
-*/
-```
 
 ## Sourcecode.java:
 
